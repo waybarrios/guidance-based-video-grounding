@@ -167,3 +167,8 @@ Out[4]: dict_keys(['qid', 'vid', 'windows', 'score'])
        [32640, 32768],
        [32704, 32832]])}
 ```
+
+## Download 
+
+The predictions are available on [HuggingFace repo](https://huggingface.co/waybarrios/guidance-based-video-grounding/).
+
