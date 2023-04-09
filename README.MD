@@ -1,3 +1,4 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2302.13372-b31b1b.svg)](https://arxiv.org/abs/2302.13372)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/localizing-moments-in-long-video-via/natural-language-moment-retrieval-on-mad)](https://paperswithcode.com/sota/natural-language-moment-retrieval-on-mad?p=localizing-moments-in-long-video-via)
 
 [![Share to Community](https://huggingface.co/datasets/huggingface/badges/raw/main/powered-by-huggingface-dark.svg)](https://huggingface.co/waybarrios/guidance-based-video-grounding)
