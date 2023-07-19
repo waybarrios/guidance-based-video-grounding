@@ -7,7 +7,7 @@
 
 The official implementation of the paper: ["Localizing Moments in Long Video Via Multimodal Guidance"](https://arxiv.org/abs/2302.13372). In this repository,
 we provide the predicted scores from the Guidance Model using [MAD Dataset](https://github.com/Soldelli/MAD). 
-# News
+## News
 **07/14/2023:** ["Localizing Moments in Long Video Via Multimodal Guidance"](https://arxiv.org/abs/2302.13372) was accepeted at [ICCV 2023](https://iccv2023.thecvf.com/).
 
 ## Citation
