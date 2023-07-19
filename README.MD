@@ -6,7 +6,7 @@
 # Guidance Based Video Grounding.
 
 The official implementation of the paper: ["Localizing Moments in Long Video Via Multimodal Guidance"](https://arxiv.org/abs/2302.13372). In this repository,
-we provide the predicted scores from the Guidance Model using [MAD Dataset](https://github.com/Soldelli/MAD). This paper was accepted at ["ICCV 2023"](https://iccv2023.thecvf.com/).
+we provide the predicted scores from the Guidance Model using [MAD Dataset](https://github.com/Soldelli/MAD). This paper was accepted at [ICCV 2023](https://iccv2023.thecvf.com/).
 
 ## Citation
 If you find this implementation useful in your research, please use the following BibTeX entry for citation:
