@@ -182,6 +182,8 @@ Out[4]: dict_keys(['qid', 'vid', 'windows', 'score'])
 The predictions are available on [HuggingFace repo](https://huggingface.co/waybarrios/guidance-based-video-grounding/).
 
 ## Run Guidance Training
+The following command line run the Guidance Training at query-dependent setup:
+
 ```
 $ bash guidance/scripts/train.sh --num_workers 20
 ```
