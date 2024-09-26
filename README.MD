@@ -191,6 +191,9 @@ $ bash guidance/scripts/train.sh --num_workers 20
 ## How to get Audio Features from MAD? 
 To download Audio Features from MAD dataset use the following link: [Google Drive File](https://drive.google.com/file/d/1KSFDQdlk78e7qDnsCkyLsP3Av5O1BTZd/view). Do not forget to cite if you use the audio features only.
 
+## How to do scoring fusion? 
+To do the scoring fusion please refer the examples located in the following [directory](https://github.com/waybarrios/guidance-based-video-grounding/tree/main/scripts/guidance_fusion_score).
+
 ## Contact 
 
 email: way.gr@dartmouth.edu or waybarrios@gmail.com
