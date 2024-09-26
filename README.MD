@@ -181,6 +181,10 @@ Out[4]: dict_keys(['qid', 'vid', 'windows', 'score'])
 
 The predictions are available on [HuggingFace repo](https://huggingface.co/waybarrios/guidance-based-video-grounding/).
 
+## Run Guidance Training
+```
+$ bash guidance/scripts/train.sh --num_workers 20
+```
 ## Contact 
 
 email: way.gr@dartmouth.edu or waybarrios@gmail.com
